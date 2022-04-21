@@ -1,0 +1,16 @@
+{   
+    "path":"http://localhost:4000/api/usuario/register",
+    "rut":"",
+    "dv_rut":"",
+    "p_nombre":"",
+    "s_nombre":"",
+    "apellido_p":"",
+    "apellido_m":"",
+    "contrasena":"",
+    "correo_electronico":"",
+    "num_tel_cel":"",
+    "codigo_pais_cel":"",
+    "direccion":"",
+    "fecha_nacimiento":"",
+    "rol_id_rol":"1"
+}
